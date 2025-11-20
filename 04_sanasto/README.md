@@ -10,6 +10,26 @@ Tämä sanasto on laadittu yhdenmukaistamaan yhteistä kieltä rakennusalan käy
 
 ## Termihakemisto
 
+
+## A
+
+<a id="ai-tekoaly"></a>
+<details>
+<summary><strong>AI, Tekoäly</strong></summary>
+
+AI = ...
+</details>
+
+<a id="air"></a>
+<details>
+<summary><strong>AIR</strong></summary>
+
+AIR = ...
+</details>
+
+
+
+
 <details><summary><strong>A</strong></summary>
 
 - [AI, Tekoäly](#ai-tekoaly)
