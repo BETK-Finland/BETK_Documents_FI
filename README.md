@@ -15,7 +15,3 @@ Tämä repository kokoaa BETK-työryhmän laatimat soveltamisohjeet ja muun tuot
 <html>
 <tr>CC BY-SA 4.0 © BETK</tr><br>
 </html>
-
-## doc_drafts
-
-📝This repository contains draft documents.<br>
